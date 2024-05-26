@@ -1,0 +1,9 @@
+C:\Users\Leo\source\repos\Tramsim-Repainter\Tramsim-Repainter\bin\Debug\Tramsim-Repainter.exe
+C:\Users\Leo\source\repos\Tramsim-Repainter\Tramsim-Repainter\bin\Debug\Tramsim-Repainter.pdb
+C:\Users\Leo\source\repos\Tramsim-Repainter\Tramsim-Repainter\obj\Debug\Tramsim-Repainter.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\Tramsim-Repainter\Tramsim-Repainter\obj\Debug\Tramsim_Repainter.Form1.resources
+C:\Users\Leo\source\repos\Tramsim-Repainter\Tramsim-Repainter\obj\Debug\Tramsim_Repainter.Properties.Resources.resources
+C:\Users\Leo\source\repos\Tramsim-Repainter\Tramsim-Repainter\obj\Debug\Tramsim-Repainter.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\Tramsim-Repainter\Tramsim-Repainter\obj\Debug\Tramsim-Repainter.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\Tramsim-Repainter\Tramsim-Repainter\obj\Debug\Tramsim-Repainter.exe
+C:\Users\Leo\source\repos\Tramsim-Repainter\Tramsim-Repainter\obj\Debug\Tramsim-Repainter.pdb
