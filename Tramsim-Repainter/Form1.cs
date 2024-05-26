@@ -43,5 +43,12 @@ namespace Tramsim_Repainter
             }
 
         }
+
+        private void btnRestore_Click(object sender, EventArgs e)
+        {
+            string backuppath = @"C:\Program Files (x86)\Steam\steamapps\common\TramSim\TramSimVienna\Repaints";
+            txtPath.Text = backuppath;
+
+        }
     }
 }
